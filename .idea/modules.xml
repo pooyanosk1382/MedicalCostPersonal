@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../../data science/DataScienceAndMachineLearning/.idea/DataScienceAndMachineLearning.iml" filepath="$PROJECT_DIR$/../../../data science/DataScienceAndMachineLearning/.idea/DataScienceAndMachineLearning.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/MedicalCostPersonal.iml" filepath="$PROJECT_DIR$/.idea/MedicalCostPersonal.iml" />
     </modules>
   </component>
